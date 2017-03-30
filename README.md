@@ -1,4 +1,5 @@
 <h1 align="center">Loaders.css</h1>
+<h2>首页加载动画，只需引进loader.css文件即可</h2>
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/loaders.css.svg?style=flat-square">
